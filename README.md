@@ -1,4 +1,4 @@
-#Automation Project: Playwright-based Data Entry for Hospital Rounds and Operative Logs
+## Automation Project: Playwright-based Data Entry for Hospital Rounds and Operative Logs
 
 This README will guide you through the step-by-step process to set up and run the automation project using **Playwright**. The goal of this project is to automate data entry into a web application for two workflows: Hospital Rounds and Operative Logs.  
 
